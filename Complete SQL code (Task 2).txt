@@ -1,3 +1,6 @@
+CREATE DATABASE noshowguard;
+USE noshowguard;
+
 PRAGMA foreign_keys = ON;
 
 CREATE TABLE clinics (
