@@ -64,3 +64,8 @@ The merged dataset contained 10 notes. Five appointments had `reminder_sent = No
 ## Security
 
 API keys and credentials are not included in this repository. API keys are stored privately and must never be committed to version control.
+
+## Notes about my work
+
+All of tasks 1, 3 and 4 is in the IPBYMB file.
+Task 2 is subbmited as a text file which contains the whole SQL code. simply copy and paste the entire code in a mysql shell
